@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2a92712b74f054da5b660a54d2114c0",
+    "revision": "4634a5de1e72fd867cd2c5b565ab21df",
     "url": "/TimeTraker/index.html"
   },
   {
-    "revision": "b593e4f9d58e3052a146",
+    "revision": "866fbc2821600fa89f45",
     "url": "/TimeTraker/static/css/main.6747c71d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TimeTraker/static/js/2.0d54bd30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b593e4f9d58e3052a146",
-    "url": "/TimeTraker/static/js/main.72c5447b.chunk.js"
+    "revision": "866fbc2821600fa89f45",
+    "url": "/TimeTraker/static/js/main.6e61d0b3.chunk.js"
   },
   {
     "revision": "cd585f4d7404d992b216",
