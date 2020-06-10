@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TimeTraker/static/css/main.6747c71d.chunk.css",
-    "main.js": "/TimeTraker/static/js/main.281d1093.chunk.js",
-    "main.js.map": "/TimeTraker/static/js/main.281d1093.chunk.js.map",
+    "main.js": "/TimeTraker/static/js/main.72c5447b.chunk.js",
+    "main.js.map": "/TimeTraker/static/js/main.72c5447b.chunk.js.map",
     "runtime-main.js": "/TimeTraker/static/js/runtime-main.afb9e02e.js",
     "runtime-main.js.map": "/TimeTraker/static/js/runtime-main.afb9e02e.js.map",
     "static/js/2.0d54bd30.chunk.js": "/TimeTraker/static/js/2.0d54bd30.chunk.js",
     "static/js/2.0d54bd30.chunk.js.map": "/TimeTraker/static/js/2.0d54bd30.chunk.js.map",
     "index.html": "/TimeTraker/index.html",
-    "precache-manifest.6260160a045c3b23fc8030a1cc9db0d2.js": "/TimeTraker/precache-manifest.6260160a045c3b23fc8030a1cc9db0d2.js",
+    "precache-manifest.9784bd268ef7f97f8a21e305768a48c5.js": "/TimeTraker/precache-manifest.9784bd268ef7f97f8a21e305768a48c5.js",
     "service-worker.js": "/TimeTraker/service-worker.js",
     "static/css/main.6747c71d.chunk.css.map": "/TimeTraker/static/css/main.6747c71d.chunk.css.map",
     "static/js/2.0d54bd30.chunk.js.LICENSE.txt": "/TimeTraker/static/js/2.0d54bd30.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.afb9e02e.js",
     "static/js/2.0d54bd30.chunk.js",
     "static/css/main.6747c71d.chunk.css",
-    "static/js/main.281d1093.chunk.js"
+    "static/js/main.72c5447b.chunk.js"
   ]
 }
