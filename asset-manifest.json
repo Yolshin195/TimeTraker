@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TimeTraker/static/css/main.6747c71d.chunk.css",
-    "main.js": "/TimeTraker/static/js/main.d4a6e920.chunk.js",
-    "main.js.map": "/TimeTraker/static/js/main.d4a6e920.chunk.js.map",
+    "main.css": "/TimeTraker/static/css/main.b79d0d1d.chunk.css",
+    "main.js": "/TimeTraker/static/js/main.c7e22317.chunk.js",
+    "main.js.map": "/TimeTraker/static/js/main.c7e22317.chunk.js.map",
     "runtime-main.js": "/TimeTraker/static/js/runtime-main.afb9e02e.js",
     "runtime-main.js.map": "/TimeTraker/static/js/runtime-main.afb9e02e.js.map",
-    "static/js/2.0d54bd30.chunk.js": "/TimeTraker/static/js/2.0d54bd30.chunk.js",
-    "static/js/2.0d54bd30.chunk.js.map": "/TimeTraker/static/js/2.0d54bd30.chunk.js.map",
+    "static/js/2.8158645f.chunk.js": "/TimeTraker/static/js/2.8158645f.chunk.js",
+    "static/js/2.8158645f.chunk.js.map": "/TimeTraker/static/js/2.8158645f.chunk.js.map",
     "index.html": "/TimeTraker/index.html",
-    "precache-manifest.ab4c970fa773abbd804eacdbe1a4aed7.js": "/TimeTraker/precache-manifest.ab4c970fa773abbd804eacdbe1a4aed7.js",
+    "precache-manifest.7cad3420933a0f479203d06ec2f36d86.js": "/TimeTraker/precache-manifest.7cad3420933a0f479203d06ec2f36d86.js",
     "service-worker.js": "/TimeTraker/service-worker.js",
-    "static/css/main.6747c71d.chunk.css.map": "/TimeTraker/static/css/main.6747c71d.chunk.css.map",
-    "static/js/2.0d54bd30.chunk.js.LICENSE.txt": "/TimeTraker/static/js/2.0d54bd30.chunk.js.LICENSE.txt"
+    "static/css/main.b79d0d1d.chunk.css.map": "/TimeTraker/static/css/main.b79d0d1d.chunk.css.map",
+    "static/js/2.8158645f.chunk.js.LICENSE.txt": "/TimeTraker/static/js/2.8158645f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.afb9e02e.js",
-    "static/js/2.0d54bd30.chunk.js",
-    "static/css/main.6747c71d.chunk.css",
-    "static/js/main.d4a6e920.chunk.js"
+    "static/js/2.8158645f.chunk.js",
+    "static/css/main.b79d0d1d.chunk.css",
+    "static/js/main.c7e22317.chunk.js"
   ]
 }
